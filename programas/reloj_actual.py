@@ -1,4 +1,4 @@
-# reloj que imprime la hora actual
+# reloj que imprime la hora actual-Mica
 
 print ("hora actual:")
 
