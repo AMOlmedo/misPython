@@ -1,0 +1,14 @@
+# reloj que imprime la hora actual
+
+print ("hw")
+
+import time
+def reloj():
+	while True:
+		hora_actual=time.striftime("%H:%M:%S"
+                print(hora_actual)
+                hora_actual=time.striftime("%H:%M:%S")
+		time.sleep(1)
+reloj()
+
+		
