@@ -7,7 +7,9 @@ def DevuelveMax():
     if num1>num2:
         print("el num1 es mayor " + str(num1))
     else: 
-        print("en num2 es mayor "  + str(num2))
+        print("el num2 " + str(num2)+ " es mayor!" )
+
+print(DevuelveMax())
 
 
 
